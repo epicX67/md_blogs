@@ -1,0 +1,11 @@
+[{
+		"name": "Game",
+		"logo": "ri-gamepad-fill",
+		"acc": "blue"
+	},
+	{
+		"name": "Device",
+		"logo": "ri-smartphone-fill",
+		"green": "green"
+	}
+]
