@@ -1,0 +1,22 @@
+  
+{
+	"configs": {
+		"acc": "green",
+		"logo": "ri-smartphone-fill"
+	},
+	"items": [{
+			"name": "Coolpad Cool 1 Dual",
+			"options": [{
+				"name": "Guide",
+				"logo": "ri-dashboard-fill"
+			}]
+		},
+		{
+			"name": "Asus Zenfone Max Pro M1",
+			"options": [{
+				"name": "Guide",
+				"logo": "ri-dashboard-fill"
+			}]
+		}
+	]
+}
