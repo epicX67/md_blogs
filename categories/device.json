@@ -7,8 +7,24 @@
 	"items": [{
 			"name": "Coolpad Cool 1 Dual",
 			"options": [{
-				"name": "Guide",
-				"logo": "ri-dashboard-fill"
+				"name": "Custom Roms",
+				"logo": "ri-android-fill"
+			},
+				    {
+				"name": "Stock Rom",
+				"logo": "ri-android-line"
+			},
+				    {
+				"name": "Firmwares",
+				"logo": "ri-hard-drive-2-fill"
+			},
+				    {
+				"name": "Recoveries",
+				"logo": "ri-pulse-fill"
+			},
+				    {
+				"name": "Patches",
+				"logo": "ri-list-settings-fill"
 			}]
 		},
 		{
