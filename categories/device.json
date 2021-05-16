@@ -16,7 +16,24 @@
 			"options": [{
 				"name": "Custom Roms",
 				"logo": "ri-dashboard-fill"
-			}]
+			},
+				    {
+				"name": "Stock Roms",
+				"logo": "ri-dashboard-fill"
+			},
+				    {
+				"name": "Firmwares",
+				"logo": "ri-dashboard-fill"
+			},
+				    {
+				"name": "Recoveries",
+				"logo": "ri-dashboard-fill"
+			},
+				    {
+				"name": "Patches",
+				"logo": "ri-dashboard-fill"
+			}
+				   ]
 		}
 	]
 }
