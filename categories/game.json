@@ -9,13 +9,6 @@
 				"name": "Mods",
 				"logo": "ri-dashboard-fill"
 			}]
-		},
-		{
-			"name": "FarCry 2",
-			"options": [{
-				"name": "Maps",
-				"logo": "ri-map-fill"
-			}]
 		}
 	]
 }
