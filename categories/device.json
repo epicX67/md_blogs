@@ -9,47 +9,7 @@
 			"options": [{
 				"name": "Custom Roms",
 				"logo": "ri-android-fill"
-			},
-				    {
-				"name": "Stock Rom",
-				"logo": "ri-android-line"
-			},
-				    {
-				"name": "Firmwares",
-				"logo": "ri-hard-drive-2-fill"
-			},
-				    {
-				"name": "Recoveries",
-				"logo": "ri-pulse-fill"
-			},
-				    {
-				"name": "Patches",
-				"logo": "ri-list-settings-fill"
 			}]
-		},
-		{
-			"name": "Asus Zenfone Max Pro M1",
-			"options": [{
-				"name": "Custom Roms",
-				"logo": "ri-dashboard-fill"
-			},
-				    {
-				"name": "Stock Roms",
-				"logo": "ri-dashboard-fill"
-			},
-				    {
-				"name": "Firmwares",
-				"logo": "ri-dashboard-fill"
-			},
-				    {
-				"name": "Recoveries",
-				"logo": "ri-dashboard-fill"
-			},
-				    {
-				"name": "Patches",
-				"logo": "ri-dashboard-fill"
-			}
-				   ]
 		}
 	]
 }
