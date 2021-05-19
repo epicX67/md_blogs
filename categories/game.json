@@ -8,6 +8,10 @@
 			"options": [{
 				"name": "Mods",
 				"logo": "ri-dashboard-fill"
+			},
+			{
+				"name": "Maps",
+				"logo": "ri-dashboard-fill"
 			}]
 		},
 		{
